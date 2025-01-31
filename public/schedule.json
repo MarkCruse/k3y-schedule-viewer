@@ -1,0 +1,4801 @@
+{
+  "schedule": [
+    {
+      "date": "25",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "25",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "26",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "26",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "27",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "27",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "28",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "28",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "29",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "29",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "30",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "30",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "31",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "31",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "3B8HL",
+      "name": "Ujo",
+      "state": "MRI",
+      "area": "AF-MRI",
+      "skcc": "23910"
+    },
+    {
+      "date": "25",
+      "utcTime": "14:00 - 16:00",
+      "callsign": "ZS1NN",
+      "name": "Paul",
+      "state": "RSA",
+      "area": "AF-RSA",
+      "skcc": "26995"
+    },
+    {
+      "date": "26",
+      "utcTime": "14:00 - 16:00",
+      "callsign": "ZS1NN",
+      "name": "Paul",
+      "state": "RSA",
+      "area": "AF-RSA",
+      "skcc": "26995"
+    },
+    {
+      "date": "27",
+      "utcTime": "14:00 - 16:00",
+      "callsign": "ZS1NN",
+      "name": "Paul",
+      "state": "RSA",
+      "area": "AF-RSA",
+      "skcc": "26995"
+    },
+    {
+      "date": "28",
+      "utcTime": "14:00 - 16:00",
+      "callsign": "ZS1NN",
+      "name": "Paul",
+      "state": "RSA",
+      "area": "AF-RSA",
+      "skcc": "26995"
+    },
+    {
+      "date": "29",
+      "utcTime": "14:00 - 16:00",
+      "callsign": "ZS1NN",
+      "name": "Paul",
+      "state": "RSA",
+      "area": "AF-RSA",
+      "skcc": "26995"
+    },
+    {
+      "date": "30",
+      "utcTime": "14:00 - 16:00",
+      "callsign": "ZS1NN",
+      "name": "Paul",
+      "state": "RSA",
+      "area": "AF-RSA",
+      "skcc": "26995"
+    },
+    {
+      "date": "31",
+      "utcTime": "14:00 - 16:00",
+      "callsign": "ZS1NN",
+      "name": "Paul",
+      "state": "RSA",
+      "area": "AF-RSA",
+      "skcc": "26995"
+    },
+    {
+      "date": "31",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "ZS6MSW",
+      "name": "Mike",
+      "state": "RSA",
+      "area": "AF-RSA",
+      "skcc": "20485"
+    },
+    {
+      "date": "25",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "4X1WQ",
+      "name": "AVI",
+      "state": "ISRAEL",
+      "area": "AS-ISR",
+      "skcc": "8354S"
+    },
+    {
+      "date": "26",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "4X1WQ",
+      "name": "AVI",
+      "state": "ISRAEL",
+      "area": "AS-ISR",
+      "skcc": "8354S"
+    },
+    {
+      "date": "27",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "4X1WQ",
+      "name": "AVI",
+      "state": "ISRAEL",
+      "area": "AS-ISR",
+      "skcc": "8354S"
+    },
+    {
+      "date": "28",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "4X1WQ",
+      "name": "AVI",
+      "state": "ISRAEL",
+      "area": "AS-ISR",
+      "skcc": "8354S"
+    },
+    {
+      "date": "29",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "4X1WQ",
+      "name": "AVI",
+      "state": "ISRAEL",
+      "area": "AS-ISR",
+      "skcc": "8354S"
+    },
+    {
+      "date": "30",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "4X1WQ",
+      "name": "AVI",
+      "state": "ISRAEL",
+      "area": "AS-ISR",
+      "skcc": "8354S"
+    },
+    {
+      "date": "31",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "4X1WQ",
+      "name": "AVI",
+      "state": "ISRAEL",
+      "area": "AS-ISR",
+      "skcc": "8354S"
+    },
+    {
+      "date": "25",
+      "utcTime": "22:00 - 22:45",
+      "callsign": "JR2IUB",
+      "name": "TAKE",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "11167S"
+    },
+    {
+      "date": "25",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "JO1ZZZ",
+      "name": "A1CLUB",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "16199"
+    },
+    {
+      "date": "25",
+      "utcTime": "22:00 - 23:59",
+      "callsign": "JA1IAZ",
+      "name": "NORI",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "25300S"
+    },
+    {
+      "date": "25",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "JJ1FXF",
+      "name": "HIRO",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "22608T"
+    },
+    {
+      "date": "26",
+      "utcTime": "12:30 - 13:30",
+      "callsign": "JS2AHG",
+      "name": "ATSU",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "561T"
+    },
+    {
+      "date": "26",
+      "utcTime": "22:00 - 22:45",
+      "callsign": "JR2IUB",
+      "name": "TAKE",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "11167S"
+    },
+    {
+      "date": "26",
+      "utcTime": "22:00 - 23:59",
+      "callsign": "JA1IAZ",
+      "name": "NORI",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "25300S"
+    },
+    {
+      "date": "27",
+      "utcTime": "22:00 - 22:45",
+      "callsign": "JR2IUB",
+      "name": "TAKE",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "11167S"
+    },
+    {
+      "date": "27",
+      "utcTime": "22:00 - 23:59",
+      "callsign": "JA1IAZ",
+      "name": "NORI",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "25300S"
+    },
+    {
+      "date": "27",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "JJ1CKN",
+      "name": "RICO",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "16120C"
+    },
+    {
+      "date": "28",
+      "utcTime": "22:00 - 22:45",
+      "callsign": "JR2IUB",
+      "name": "TAKE",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "11167S"
+    },
+    {
+      "date": "28",
+      "utcTime": "22:00 - 23:59",
+      "callsign": "JA1IAZ",
+      "name": "NORI",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "25300S"
+    },
+    {
+      "date": "28",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "JJ1CKN",
+      "name": "RICO",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "16120C"
+    },
+    {
+      "date": "29",
+      "utcTime": "22:00 - 22:45",
+      "callsign": "JR2IUB",
+      "name": "TAKE",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "11167S"
+    },
+    {
+      "date": "29",
+      "utcTime": "22:00 - 23:59",
+      "callsign": "JA1IAZ",
+      "name": "NORI",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "25300S"
+    },
+    {
+      "date": "30",
+      "utcTime": "22:00 - 22:45",
+      "callsign": "JR2IUB",
+      "name": "TAKE",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "11167S"
+    },
+    {
+      "date": "30",
+      "utcTime": "22:00 - 23:59",
+      "callsign": "JA1IAZ",
+      "name": "NORI",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "25300S"
+    },
+    {
+      "date": "31",
+      "utcTime": "22:00 - 22:45",
+      "callsign": "JR2IUB",
+      "name": "TAKE",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "11167S"
+    },
+    {
+      "date": "31",
+      "utcTime": "22:00 - 23:59",
+      "callsign": "JA1IAZ",
+      "name": "NORI",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "25300S"
+    },
+    {
+      "date": "31",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "JJ1FXF",
+      "name": "HIRO",
+      "state": "JAPAN",
+      "area": "AS-JPN",
+      "skcc": "22608T"
+    },
+    {
+      "date": "25",
+      "utcTime": "07:00 - 18:00",
+      "callsign": "G4PVM",
+      "name": "Paul",
+      "state": "England",
+      "area": "EU-ENG",
+      "skcc": "17810S"
+    },
+    {
+      "date": "25",
+      "utcTime": "14:00 - 15:00",
+      "callsign": "G0HXR",
+      "name": "Geoff",
+      "state": "England",
+      "area": "EU-ENG",
+      "skcc": "19983C"
+    },
+    {
+      "date": "26",
+      "utcTime": "07:00 - 18:00",
+      "callsign": "G4PVM",
+      "name": "Paul",
+      "state": "England",
+      "area": "EU-ENG",
+      "skcc": "17810S"
+    },
+    {
+      "date": "27",
+      "utcTime": "07:00 - 18:00",
+      "callsign": "G4PVM",
+      "name": "Paul",
+      "state": "England",
+      "area": "EU-ENG",
+      "skcc": "17810S"
+    },
+    {
+      "date": "27",
+      "utcTime": "14:00 - 15:00",
+      "callsign": "G0HXR",
+      "name": "Geoff",
+      "state": "England",
+      "area": "EU-ENG",
+      "skcc": "19983C"
+    },
+    {
+      "date": "28",
+      "utcTime": "07:00 - 18:00",
+      "callsign": "G4PVM",
+      "name": "Paul",
+      "state": "England",
+      "area": "EU-ENG",
+      "skcc": "17810S"
+    },
+    {
+      "date": "28",
+      "utcTime": "14:00 - 15:00",
+      "callsign": "G0HXR",
+      "name": "Geoff",
+      "state": "England",
+      "area": "EU-ENG",
+      "skcc": "19983C"
+    },
+    {
+      "date": "29",
+      "utcTime": "07:00 - 18:00",
+      "callsign": "G4PVM",
+      "name": "Paul",
+      "state": "England",
+      "area": "EU-ENG",
+      "skcc": "17810S"
+    },
+    {
+      "date": "29",
+      "utcTime": "14:00 - 15:00",
+      "callsign": "G0HXR",
+      "name": "Geoff",
+      "state": "England",
+      "area": "EU-ENG",
+      "skcc": "19983C"
+    },
+    {
+      "date": "30",
+      "utcTime": "07:00 - 18:00",
+      "callsign": "G4PVM",
+      "name": "Paul",
+      "state": "England",
+      "area": "EU-ENG",
+      "skcc": "17810S"
+    },
+    {
+      "date": "30",
+      "utcTime": "10:00 - 11:00",
+      "callsign": "G0HXR",
+      "name": "Geoff",
+      "state": "England",
+      "area": "EU-ENG",
+      "skcc": "19983C"
+    },
+    {
+      "date": "31",
+      "utcTime": "07:00 - 18:00",
+      "callsign": "G4PVM",
+      "name": "Paul",
+      "state": "England",
+      "area": "EU-ENG",
+      "skcc": "17810S"
+    },
+    {
+      "date": "31",
+      "utcTime": "10:00 - 11:00",
+      "callsign": "G0HXR",
+      "name": "Geoff",
+      "state": "England",
+      "area": "EU-ENG",
+      "skcc": "19983C"
+    },
+    {
+      "date": "25",
+      "utcTime": "05:00 - 06:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "25",
+      "utcTime": "06:00 - 11:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "25",
+      "utcTime": "16:00 - 21:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "25",
+      "utcTime": "17:00 - 21:00",
+      "callsign": "EA7Q",
+      "name": "Leo",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "17670T"
+    },
+    {
+      "date": "25",
+      "utcTime": "18:00 - 20:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "26",
+      "utcTime": "05:00 - 06:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "26",
+      "utcTime": "06:00 - 11:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "26",
+      "utcTime": "16:00 - 21:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "26",
+      "utcTime": "18:00 - 20:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "27",
+      "utcTime": "05:00 - 06:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "27",
+      "utcTime": "12:00 - 14:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "27",
+      "utcTime": "17:00 - 21:00",
+      "callsign": "EA7Q",
+      "name": "Leo",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "17670T"
+    },
+    {
+      "date": "27",
+      "utcTime": "18:00 - 20:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "28",
+      "utcTime": "05:00 - 06:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "28",
+      "utcTime": "12:00 - 14:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "28",
+      "utcTime": "17:00 - 21:00",
+      "callsign": "EA7Q",
+      "name": "Leo",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "17670T"
+    },
+    {
+      "date": "28",
+      "utcTime": "18:00 - 20:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "29",
+      "utcTime": "05:00 - 06:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "29",
+      "utcTime": "12:00 - 14:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "29",
+      "utcTime": "17:00 - 21:00",
+      "callsign": "EA7Q",
+      "name": "Leo",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "17670T"
+    },
+    {
+      "date": "29",
+      "utcTime": "18:00 - 20:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "30",
+      "utcTime": "05:00 - 06:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "30",
+      "utcTime": "12:00 - 14:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "30",
+      "utcTime": "17:00 - 21:00",
+      "callsign": "EA7Q",
+      "name": "Leo",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "17670T"
+    },
+    {
+      "date": "30",
+      "utcTime": "18:00 - 20:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "31",
+      "utcTime": "05:00 - 06:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "31",
+      "utcTime": "12:00 - 14:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "31",
+      "utcTime": "17:00 - 21:00",
+      "callsign": "EA7Q",
+      "name": "Leo",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "17670T"
+    },
+    {
+      "date": "31",
+      "utcTime": "18:00 - 20:00",
+      "callsign": "EA5FID",
+      "name": "Juan",
+      "state": "Spain",
+      "area": "EU-ESP",
+      "skcc": "24446S"
+    },
+    {
+      "date": "25",
+      "utcTime": "15:00 - 19:00",
+      "callsign": "F6EJN",
+      "name": "Bob",
+      "state": "France",
+      "area": "EU-FRA",
+      "skcc": "508S"
+    },
+    {
+      "date": "26",
+      "utcTime": "15:00 - 19:00",
+      "callsign": "F6EJN",
+      "name": "Bob",
+      "state": "France",
+      "area": "EU-FRA",
+      "skcc": "508S"
+    },
+    {
+      "date": "27",
+      "utcTime": "14:00 - 20:00",
+      "callsign": "F6HKA",
+      "name": "Bert",
+      "state": "France",
+      "area": "EU-FRA",
+      "skcc": "6069S"
+    },
+    {
+      "date": "28",
+      "utcTime": "14:00 - 20:00",
+      "callsign": "F6HKA",
+      "name": "Bert",
+      "state": "France",
+      "area": "EU-FRA",
+      "skcc": "6069S"
+    },
+    {
+      "date": "29",
+      "utcTime": "14:00 - 20:00",
+      "callsign": "F6HKA",
+      "name": "Bert",
+      "state": "France",
+      "area": "EU-FRA",
+      "skcc": "6069S"
+    },
+    {
+      "date": "30",
+      "utcTime": "14:00 - 20:00",
+      "callsign": "F6HKA",
+      "name": "Bert",
+      "state": "France",
+      "area": "EU-FRA",
+      "skcc": "6069S"
+    },
+    {
+      "date": "31",
+      "utcTime": "14:00 - 20:00",
+      "callsign": "F6HKA",
+      "name": "Bert",
+      "state": "France",
+      "area": "EU-FRA",
+      "skcc": "6069S"
+    },
+    {
+      "date": "25",
+      "utcTime": "08:00 - 10:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "25",
+      "utcTime": "14:00 - 18:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "25",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "DK3DUA",
+      "name": "Tom",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "16484S"
+    },
+    {
+      "date": "26",
+      "utcTime": "08:00 - 10:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "26",
+      "utcTime": "14:00 - 18:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "26",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "DK3DUA",
+      "name": "Tom",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "16484S"
+    },
+    {
+      "date": "27",
+      "utcTime": "08:00 - 10:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "27",
+      "utcTime": "14:00 - 18:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "27",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "DK3DUA",
+      "name": "Tom",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "16484S"
+    },
+    {
+      "date": "28",
+      "utcTime": "08:00 - 10:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "28",
+      "utcTime": "14:00 - 18:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "29",
+      "utcTime": "08:00 - 10:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "29",
+      "utcTime": "14:00 - 18:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "29",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "DK3DUA",
+      "name": "Tom",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "16484S"
+    },
+    {
+      "date": "30",
+      "utcTime": "08:00 - 10:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "30",
+      "utcTime": "14:00 - 18:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "31",
+      "utcTime": "08:00 - 10:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "31",
+      "utcTime": "14:00 - 18:00",
+      "callsign": "DL9YCS",
+      "name": "Joerg",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "7150S"
+    },
+    {
+      "date": "31",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "DK3DUA",
+      "name": "Tom",
+      "state": "Germany",
+      "area": "EU-GER",
+      "skcc": "16484S"
+    },
+    {
+      "date": "25",
+      "utcTime": "13:00 - 14:00",
+      "callsign": "KA0WKG",
+      "name": "Dan",
+      "state": "CO",
+      "area": "K3Y/0",
+      "skcc": "22368S"
+    },
+    {
+      "date": "25",
+      "utcTime": "14:00 - 15:00",
+      "callsign": "N0IPA",
+      "name": "Jim",
+      "state": "CO",
+      "area": "K3Y/0",
+      "skcc": "23014S"
+    },
+    {
+      "date": "25",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "K8UDH",
+      "name": "Bruce",
+      "state": "NE",
+      "area": "K3Y/0",
+      "skcc": "10532S"
+    },
+    {
+      "date": "25",
+      "utcTime": "18:00 - 19:00",
+      "callsign": "W0EJ",
+      "name": "Bill",
+      "state": "SD",
+      "area": "K3Y/0",
+      "skcc": "10440S"
+    },
+    {
+      "date": "25",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N0HOV",
+      "name": "Joe",
+      "state": "NE",
+      "area": "k3y/0",
+      "skcc": "23610S"
+    },
+    {
+      "date": "25",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "K8UDH",
+      "name": "Bruce",
+      "state": "NE",
+      "area": "K3Y/0",
+      "skcc": "10532S"
+    },
+    {
+      "date": "26",
+      "utcTime": "00:00 - 02:00",
+      "callsign": "K0AF",
+      "name": "Andy",
+      "state": "IA",
+      "area": "K3Y/0",
+      "skcc": "22366S"
+    },
+    {
+      "date": "26",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "W0EJ",
+      "name": "Bill",
+      "state": "SD",
+      "area": "K3Y/0",
+      "skcc": "10440S"
+    },
+    {
+      "date": "27",
+      "utcTime": "18:00 - 19:00",
+      "callsign": "AB0MG",
+      "name": "Red",
+      "state": "MO",
+      "area": "K3Y/0",
+      "skcc": "29321C"
+    },
+    {
+      "date": "27",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "W9KMK",
+      "name": "Gene",
+      "state": "MO",
+      "area": "K3Y/0",
+      "skcc": "19270S"
+    },
+    {
+      "date": "29",
+      "utcTime": "17:00 - 18:00",
+      "callsign": "AB0MG",
+      "name": "Red",
+      "state": "MO",
+      "area": "K3Y/0",
+      "skcc": "29321C"
+    },
+    {
+      "date": "29",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "W9KMK",
+      "name": "Gene",
+      "state": "MO",
+      "area": "K3Y/0",
+      "skcc": "19270S"
+    },
+    {
+      "date": "30",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N0HOV",
+      "name": "Joe",
+      "state": "NE",
+      "area": "k3y/0",
+      "skcc": "23610S"
+    },
+    {
+      "date": "31",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "W9KMK",
+      "name": "Gene",
+      "state": "MO",
+      "area": "K3Y/0",
+      "skcc": "19270S"
+    },
+    {
+      "date": "25",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "W1TAG",
+      "name": "John",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "15461S"
+    },
+    {
+      "date": "25",
+      "utcTime": "01:00 - 03:00",
+      "callsign": "W4LRB",
+      "name": "Ben",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "11021S"
+    },
+    {
+      "date": "25",
+      "utcTime": "03:00 - 04:00",
+      "callsign": "KC1UML",
+      "name": "Michelle",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "28553T"
+    },
+    {
+      "date": "25",
+      "utcTime": "13:00 - 14:00",
+      "callsign": "K1ARR",
+      "name": "Art",
+      "state": "VT",
+      "area": "K3Y/1",
+      "skcc": "2775S"
+    },
+    {
+      "date": "25",
+      "utcTime": "15:00 - 16:00",
+      "callsign": "NF1O",
+      "name": "Barry",
+      "state": "NH",
+      "area": "K3Y/1",
+      "skcc": "164S"
+    },
+    {
+      "date": "25",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "WB1ANA",
+      "name": "TOM",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "26472S"
+    },
+    {
+      "date": "25",
+      "utcTime": "17:00 - 19:00",
+      "callsign": "KB1FGC",
+      "name": "Rich",
+      "state": "CT",
+      "area": "K3Y/1",
+      "skcc": "21047T"
+    },
+    {
+      "date": "25",
+      "utcTime": "19:00 - 21:00",
+      "callsign": "W4LRB",
+      "name": "Ben",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "11021S"
+    },
+    {
+      "date": "25",
+      "utcTime": "21:00 - 23:00",
+      "callsign": "W1ZAH",
+      "name": "Frank",
+      "state": "CT",
+      "area": "K3Y/1",
+      "skcc": "20478S"
+    },
+    {
+      "date": "26",
+      "utcTime": "00:00 - 02:00",
+      "callsign": "W4LRB",
+      "name": "Ben",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "11021S"
+    },
+    {
+      "date": "26",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "K1EDG",
+      "name": "Ed",
+      "state": "ME",
+      "area": "K3Y/1",
+      "skcc": "9625S"
+    },
+    {
+      "date": "26",
+      "utcTime": "13:00 - 14:00",
+      "callsign": "K1ARR",
+      "name": "Art",
+      "state": "VT",
+      "area": "K3Y/1",
+      "skcc": "2775S"
+    },
+    {
+      "date": "26",
+      "utcTime": "15:00 - 16:00",
+      "callsign": "W1ZAH",
+      "name": "Frank",
+      "state": "CT",
+      "area": "K3Y/1",
+      "skcc": "20478S"
+    },
+    {
+      "date": "26",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "WB1ANA",
+      "name": "TOM",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "26472S"
+    },
+    {
+      "date": "26",
+      "utcTime": "17:00 - 19:00",
+      "callsign": "W4LRB",
+      "name": "Ben",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "11021S"
+    },
+    {
+      "date": "26",
+      "utcTime": "19:00 - 21:00",
+      "callsign": "NX1K",
+      "name": "Mark",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "11024S"
+    },
+    {
+      "date": "27",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "W1TAG",
+      "name": "John",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "15461S"
+    },
+    {
+      "date": "27",
+      "utcTime": "01:00 - 03:00",
+      "callsign": "KB1FGC",
+      "name": "Rich",
+      "state": "CT",
+      "area": "K3Y/1",
+      "skcc": "21047T"
+    },
+    {
+      "date": "27",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "WB1ANA",
+      "name": "TOM",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "26472S"
+    },
+    {
+      "date": "27",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "W1ZAH",
+      "name": "Frank",
+      "state": "CT",
+      "area": "K3Y/1",
+      "skcc": "20478S"
+    },
+    {
+      "date": "27",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "KA1QYP",
+      "name": "Bill",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "12164S"
+    },
+    {
+      "date": "28",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "WB1ANA",
+      "name": "TOM",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "26472S"
+    },
+    {
+      "date": "28",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "W1ZAH",
+      "name": "Frank",
+      "state": "CT",
+      "area": "K3Y/1",
+      "skcc": "20478S"
+    },
+    {
+      "date": "29",
+      "utcTime": "13:00 - 15:00",
+      "callsign": "W1ZAH",
+      "name": "Frank",
+      "state": "CT",
+      "area": "K3Y/1",
+      "skcc": "20478S"
+    },
+    {
+      "date": "29",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "WB1ANA",
+      "name": "TOM",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "26472S"
+    },
+    {
+      "date": "29",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "W1TAG",
+      "name": "John",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "15461S"
+    },
+    {
+      "date": "29",
+      "utcTime": "20:00 - 22:00",
+      "callsign": "NX1K",
+      "name": "Mark",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "11024S"
+    },
+    {
+      "date": "30",
+      "utcTime": "01:00 - 03:00",
+      "callsign": "KB1FGC",
+      "name": "Rich",
+      "state": "CT",
+      "area": "K3Y/1",
+      "skcc": "21047T"
+    },
+    {
+      "date": "30",
+      "utcTime": "13:00 - 15:00",
+      "callsign": "NX1K",
+      "name": "Mark",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "11024S"
+    },
+    {
+      "date": "30",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "WB1ANA",
+      "name": "TOM",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "26472S"
+    },
+    {
+      "date": "30",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "W1ZAH",
+      "name": "Frank",
+      "state": "CT",
+      "area": "K3Y/1",
+      "skcc": "20478S"
+    },
+    {
+      "date": "31",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "WB1ANA",
+      "name": "TOM",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "26472S"
+    },
+    {
+      "date": "31",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "NX1K",
+      "name": "Mark",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "11024S"
+    },
+    {
+      "date": "31",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "W1TAG",
+      "name": "John",
+      "state": "MA",
+      "area": "K3Y/1",
+      "skcc": "15461S"
+    },
+    {
+      "date": "25",
+      "utcTime": "01:00 - 02:30",
+      "callsign": "NA2DX",
+      "name": "Nate",
+      "state": "NY",
+      "area": "K3Y/2",
+      "skcc": "28521S"
+    },
+    {
+      "date": "25",
+      "utcTime": "13:00 - 15:00",
+      "callsign": "NA2DX",
+      "name": "Nate",
+      "state": "NY",
+      "area": "K3Y/2",
+      "skcc": "28521S"
+    },
+    {
+      "date": "25",
+      "utcTime": "15:00 - 16:00",
+      "callsign": "W2SKY",
+      "name": "Peter",
+      "state": "NY",
+      "area": "K3Y/2",
+      "skcc": "22019S"
+    },
+    {
+      "date": "25",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "W2SKY",
+      "name": "Peter",
+      "state": "NY",
+      "area": "K3Y/2",
+      "skcc": "22019S"
+    },
+    {
+      "date": "25",
+      "utcTime": "20:00 - 21:30",
+      "callsign": "K2FW",
+      "name": "Steve",
+      "state": "NJ",
+      "area": "K3Y/2",
+      "skcc": "20151S"
+    },
+    {
+      "date": "25",
+      "utcTime": "23:30 - 23:59",
+      "callsign": "K2FW",
+      "name": "Steve",
+      "state": "NJ",
+      "area": "K3Y/2",
+      "skcc": "20151S"
+    },
+    {
+      "date": "26",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "K2FW",
+      "name": "Steve",
+      "state": "NJ",
+      "area": "K3Y/2",
+      "skcc": "20151S"
+    },
+    {
+      "date": "26",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "KD2GUT",
+      "name": "Caryn",
+      "state": "NY",
+      "area": "K3Y/2",
+      "skcc": "23124S"
+    },
+    {
+      "date": "26",
+      "utcTime": "03:00 - 04:00",
+      "callsign": "W2SKY",
+      "name": "Peter",
+      "state": "NY",
+      "area": "K3Y/2",
+      "skcc": "22019S"
+    },
+    {
+      "date": "26",
+      "utcTime": "15:00 - 16:00",
+      "callsign": "W2SKY",
+      "name": "Peter",
+      "state": "NY",
+      "area": "K3Y/2",
+      "skcc": "22019S"
+    },
+    {
+      "date": "26",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N2PEZ",
+      "name": "Reiner",
+      "state": "NY",
+      "area": "K3Y/2",
+      "skcc": "20196T"
+    },
+    {
+      "date": "27",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "W2SKY",
+      "name": "Peter",
+      "state": "NY",
+      "area": "K3Y/2",
+      "skcc": "22019S"
+    },
+    {
+      "date": "31",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "AF2Z",
+      "name": "Drew",
+      "state": "NJ",
+      "area": "K3Y/2",
+      "skcc": "2082s"
+    },
+    {
+      "date": "25",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "K3PZ",
+      "name": "Jack",
+      "state": "MD",
+      "area": "K3Y/3",
+      "skcc": "23471S"
+    },
+    {
+      "date": "25",
+      "utcTime": "01:00 - 03:00",
+      "callsign": "W3NCK",
+      "name": "NICK",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "28605"
+    },
+    {
+      "date": "25",
+      "utcTime": "12:00 - 13:00",
+      "callsign": "WA0CIE",
+      "name": "Butch",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "18301S"
+    },
+    {
+      "date": "25",
+      "utcTime": "13:00 - 15:00",
+      "callsign": "K3WK",
+      "name": "Gary",
+      "state": "MD",
+      "area": "K3Y/3",
+      "skcc": "25013S"
+    },
+    {
+      "date": "25",
+      "utcTime": "15:00 - 18:00",
+      "callsign": "WA3KCP",
+      "name": "John",
+      "state": "PA",
+      "area": "K3Y/3",
+      "skcc": "11705S"
+    },
+    {
+      "date": "25",
+      "utcTime": "18:00 - 19:00",
+      "callsign": "AH6AX",
+      "name": "Larry",
+      "state": "MD",
+      "area": "K3Y/3",
+      "skcc": "11165S"
+    },
+    {
+      "date": "25",
+      "utcTime": "19:00 - 21:00",
+      "callsign": "WA0CIE",
+      "name": "Butch",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "18301S"
+    },
+    {
+      "date": "25",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "WA3KCP",
+      "name": "John",
+      "state": "PA",
+      "area": "K3Y/3",
+      "skcc": "11705S"
+    },
+    {
+      "date": "26",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "WA3KCP",
+      "name": "John",
+      "state": "PA",
+      "area": "K3Y/3",
+      "skcc": "11705S"
+    },
+    {
+      "date": "26",
+      "utcTime": "01:00 - 02:00",
+      "callsign": "W3NCK",
+      "name": "NICK",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "28605T"
+    },
+    {
+      "date": "26",
+      "utcTime": "13:00 - 14:00",
+      "callsign": "WA0CIE",
+      "name": "Butch",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "18301S"
+    },
+    {
+      "date": "26",
+      "utcTime": "15:00 - 18:00",
+      "callsign": "WA3KCP",
+      "name": "John",
+      "state": "PA",
+      "area": "K3Y/3",
+      "skcc": "11705S"
+    },
+    {
+      "date": "26",
+      "utcTime": "18:00 - 20:00",
+      "callsign": "K3WK",
+      "name": "Gary",
+      "state": "MD",
+      "area": "K3Y/3",
+      "skcc": "25013S"
+    },
+    {
+      "date": "26",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "AH6AX",
+      "name": "Larry",
+      "state": "MD",
+      "area": "K3Y/3",
+      "skcc": "11165S"
+    },
+    {
+      "date": "26",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "WA3KCP",
+      "name": "John",
+      "state": "PA",
+      "area": "K3Y/3",
+      "skcc": "11705S"
+    },
+    {
+      "date": "27",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "WA3KCP",
+      "name": "John",
+      "state": "PA",
+      "area": "K3Y/3",
+      "skcc": "11705S"
+    },
+    {
+      "date": "27",
+      "utcTime": "13:00 - 15:00",
+      "callsign": "WA0CIE",
+      "name": "Butch",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "18301S"
+    },
+    {
+      "date": "27",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "WA3KCP",
+      "name": "John",
+      "state": "PA",
+      "area": "K3Y/3",
+      "skcc": "11705S"
+    },
+    {
+      "date": "27",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "KJ3I",
+      "name": "BRUCE",
+      "state": "PA",
+      "area": "K3Y/3",
+      "skcc": "18265"
+    },
+    {
+      "date": "28",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "WA3KCP",
+      "name": "John",
+      "state": "PA",
+      "area": "K3Y/3",
+      "skcc": "11705S"
+    },
+    {
+      "date": "28",
+      "utcTime": "01:00 - 03:00",
+      "callsign": "W3NCK",
+      "name": "NICK",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "28605T"
+    },
+    {
+      "date": "28",
+      "utcTime": "13:00 - 15:00",
+      "callsign": "W3NCK",
+      "name": "Nick",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "28605T"
+    },
+    {
+      "date": "28",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "WA0CIE",
+      "name": "Butch",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "18301S"
+    },
+    {
+      "date": "28",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "KJ3I",
+      "name": "BRUCE",
+      "state": "PA",
+      "area": "K3Y/3",
+      "skcc": "18265"
+    },
+    {
+      "date": "28",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "WA0CIE",
+      "name": "Butch",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "18301S"
+    },
+    {
+      "date": "29",
+      "utcTime": "01:00 - 03:00",
+      "callsign": "W3NCK",
+      "name": "Nick",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "28605T"
+    },
+    {
+      "date": "29",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "WA0CIE",
+      "name": "Butch",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "18301S"
+    },
+    {
+      "date": "29",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "KJ3I",
+      "name": "BRUCE",
+      "state": "PA",
+      "area": "K3Y/3",
+      "skcc": "18265"
+    },
+    {
+      "date": "29",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "WA0CIE",
+      "name": "Butch",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "18301S"
+    },
+    {
+      "date": "30",
+      "utcTime": "01:00 - 03:00",
+      "callsign": "W3NCK",
+      "name": "Nick",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "28605T"
+    },
+    {
+      "date": "30",
+      "utcTime": "13:00 - 15:00",
+      "callsign": "W3NCK",
+      "name": "Nick",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "28605T"
+    },
+    {
+      "date": "30",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "KJ3I",
+      "name": "BRUCE",
+      "state": "PA",
+      "area": "K3Y/3",
+      "skcc": "18265"
+    },
+    {
+      "date": "31",
+      "utcTime": "01:00 - 03:00",
+      "callsign": "W3NCK",
+      "name": "Nick",
+      "state": "DE",
+      "area": "K3Y/3",
+      "skcc": "28605T"
+    },
+    {
+      "date": "31",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "KJ3I",
+      "name": "BRUCE",
+      "state": "PA",
+      "area": "K3Y/3",
+      "skcc": "18265"
+    },
+    {
+      "date": "25",
+      "utcTime": "00:00 - 02:00",
+      "callsign": "AB4PP",
+      "name": "JP",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "32S"
+    },
+    {
+      "date": "25",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "W1DV",
+      "name": "Dave",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "1433S"
+    },
+    {
+      "date": "25",
+      "utcTime": "12:00 - 13:00",
+      "callsign": "N4HAY",
+      "name": "Dick",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "14649S"
+    },
+    {
+      "date": "25",
+      "utcTime": "13:00 - 14:00",
+      "callsign": "KC4NO",
+      "name": "Mark",
+      "state": "KY",
+      "area": "K3Y/4",
+      "skcc": "25318S"
+    },
+    {
+      "date": "25",
+      "utcTime": "14:00 - 16:00",
+      "callsign": "AB4PP",
+      "name": "JP",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "32S"
+    },
+    {
+      "date": "25",
+      "utcTime": "16:00 - 18:00",
+      "callsign": "W1DV",
+      "name": "Dave",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "1433S"
+    },
+    {
+      "date": "25",
+      "utcTime": "18:00 - 19:00",
+      "callsign": "W2ECK",
+      "name": "Paul",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "6518S"
+    },
+    {
+      "date": "25",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "K4KYN",
+      "name": "Jeff",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "26302S"
+    },
+    {
+      "date": "25",
+      "utcTime": "20:00 - 22:00",
+      "callsign": "N4TTU",
+      "name": "Tom",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "28601T"
+    },
+    {
+      "date": "25",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "W4CMG",
+      "name": "Cathy",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "20093S"
+    },
+    {
+      "date": "25",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "W2ECK",
+      "name": "Paul",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "6518s"
+    },
+    {
+      "date": "26",
+      "utcTime": "00:00 - 02:00",
+      "callsign": "AB4PP",
+      "name": "JP",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "32S"
+    },
+    {
+      "date": "26",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "W1DV",
+      "name": "Dave",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "1433S"
+    },
+    {
+      "date": "26",
+      "utcTime": "12:00 - 14:00",
+      "callsign": "KC4NO",
+      "name": "Mark",
+      "state": "KY",
+      "area": "K3Y/4",
+      "skcc": "25318S"
+    },
+    {
+      "date": "26",
+      "utcTime": "14:00 - 15:00",
+      "callsign": "K4KYN",
+      "name": "Jeff",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "26302S"
+    },
+    {
+      "date": "26",
+      "utcTime": "15:00 - 16:00",
+      "callsign": "W4CMG",
+      "name": "Cathy",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "20093S"
+    },
+    {
+      "date": "26",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "KB3FW",
+      "name": "Harve",
+      "state": "SC",
+      "area": "K3Y/4",
+      "skcc": "26905T"
+    },
+    {
+      "date": "26",
+      "utcTime": "17:00 - 19:00",
+      "callsign": "W4CMG",
+      "name": "Cathy",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "20093S"
+    },
+    {
+      "date": "26",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "KC4NO",
+      "name": "Mark",
+      "state": "KY",
+      "area": "K3Y/4",
+      "skcc": "25318S"
+    },
+    {
+      "date": "26",
+      "utcTime": "20:00 - 22:00",
+      "callsign": "AB4PP",
+      "name": "JP",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "32S"
+    },
+    {
+      "date": "26",
+      "utcTime": "22:00 - 23:59",
+      "callsign": "W2ECK",
+      "name": "Paul",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "6518s"
+    },
+    {
+      "date": "27",
+      "utcTime": "00:00 - 02:00",
+      "callsign": "K4KYN",
+      "name": "Jeff",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "26302S"
+    },
+    {
+      "date": "27",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "AB4PP",
+      "name": "JP",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "32S"
+    },
+    {
+      "date": "27",
+      "utcTime": "11:00 - 12:00",
+      "callsign": "WB4LAL",
+      "name": "Ike",
+      "state": "AL",
+      "area": "K3Y/4",
+      "skcc": "9385S"
+    },
+    {
+      "date": "27",
+      "utcTime": "12:00 - 14:00",
+      "callsign": "W1DV",
+      "name": "Dave",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "1433S"
+    },
+    {
+      "date": "27",
+      "utcTime": "14:00 - 15:00",
+      "callsign": "KC4NO",
+      "name": "Mark",
+      "state": "KY",
+      "area": "K3Y/4",
+      "skcc": "25318S"
+    },
+    {
+      "date": "27",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "KQ3Q",
+      "name": "Lidi",
+      "state": "FL",
+      "area": "K3Y/4",
+      "skcc": "27628T"
+    },
+    {
+      "date": "27",
+      "utcTime": "17:00 - 18:00",
+      "callsign": "N4TTU",
+      "name": "Tom",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "28601T"
+    },
+    {
+      "date": "27",
+      "utcTime": "18:00 - 20:00",
+      "callsign": "KW4NJA",
+      "name": "Scott",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "25716T"
+    },
+    {
+      "date": "27",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "W2ECK",
+      "name": "Paul",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "6518s"
+    },
+    {
+      "date": "27",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "WB4HMA",
+      "name": "Joe",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "15132S"
+    },
+    {
+      "date": "27",
+      "utcTime": "22:00 - 23:59",
+      "callsign": "W4CMG",
+      "name": "Cathy",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "20093S"
+    },
+    {
+      "date": "28",
+      "utcTime": "00:00 - 02:00",
+      "callsign": "AB4PP",
+      "name": "JP",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "32S"
+    },
+    {
+      "date": "28",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "W1DV",
+      "name": "Dave",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "1433S"
+    },
+    {
+      "date": "28",
+      "utcTime": "12:00 - 13:00",
+      "callsign": "WB4LAL",
+      "name": "Ike",
+      "state": "AL",
+      "area": "K3Y/4",
+      "skcc": "9385S"
+    },
+    {
+      "date": "28",
+      "utcTime": "13:00 - 15:00",
+      "callsign": "W1DV",
+      "name": "Dave",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "1433S"
+    },
+    {
+      "date": "28",
+      "utcTime": "15:00 - 16:00",
+      "callsign": "NC4RT",
+      "name": "Randy",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "10713S"
+    },
+    {
+      "date": "28",
+      "utcTime": "16:00 - 18:00",
+      "callsign": "AB4PP",
+      "name": "JP",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "32S"
+    },
+    {
+      "date": "28",
+      "utcTime": "18:00 - 19:00",
+      "callsign": "KB3FW",
+      "name": "Harve",
+      "state": "SC",
+      "area": "K3Y/4",
+      "skcc": "26905T"
+    },
+    {
+      "date": "28",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N4TTU",
+      "name": "Tom",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "28601T"
+    },
+    {
+      "date": "28",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "KO4WFP",
+      "name": "Teri",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "25974S"
+    },
+    {
+      "date": "28",
+      "utcTime": "21:00 - 23:00",
+      "callsign": "WB4HMA",
+      "name": "Joe",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "15132S"
+    },
+    {
+      "date": "28",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "W2ECK",
+      "name": "Paul",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "6518s"
+    },
+    {
+      "date": "29",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "W4CMG",
+      "name": "Cathy",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "20093S"
+    },
+    {
+      "date": "29",
+      "utcTime": "01:00 - 02:00",
+      "callsign": "N4TTU",
+      "name": "Tom",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "28601T"
+    },
+    {
+      "date": "29",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "W2ECK",
+      "name": "Paul",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "6518s"
+    },
+    {
+      "date": "29",
+      "utcTime": "12:00 - 13:00",
+      "callsign": "N4HAY",
+      "name": "Dick",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "14649S"
+    },
+    {
+      "date": "29",
+      "utcTime": "13:00 - 15:00",
+      "callsign": "WA9VFD",
+      "name": "Kevin",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "17995S"
+    },
+    {
+      "date": "29",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "AB4PP",
+      "name": "JP",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "32S"
+    },
+    {
+      "date": "29",
+      "utcTime": "17:00 - 19:00",
+      "callsign": "W1DV",
+      "name": "Dave",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "1433S"
+    },
+    {
+      "date": "29",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N4TTU",
+      "name": "Tom",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "28601T"
+    },
+    {
+      "date": "29",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "WB4HMA",
+      "name": "Joe",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "15132S"
+    },
+    {
+      "date": "29",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "KB3FW",
+      "name": "Harve",
+      "state": "SC",
+      "area": "K3Y/4",
+      "skcc": "26905T"
+    },
+    {
+      "date": "29",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "WB4HMA",
+      "name": "Joe",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "15132S"
+    },
+    {
+      "date": "29",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "K4KYN",
+      "name": "Jeff",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "26302S"
+    },
+    {
+      "date": "30",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "K4KYN",
+      "name": "Jeff",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "26302S"
+    },
+    {
+      "date": "30",
+      "utcTime": "01:00 - 02:00",
+      "callsign": "W4CMG",
+      "name": "Cathy",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "20093S"
+    },
+    {
+      "date": "30",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "W1DV",
+      "name": "Dave",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "1433S"
+    },
+    {
+      "date": "30",
+      "utcTime": "12:00 - 13:00",
+      "callsign": "WA9VFD",
+      "name": "Kevin",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "17995S"
+    },
+    {
+      "date": "30",
+      "utcTime": "13:00 - 15:00",
+      "callsign": "W1DV",
+      "name": "Dave",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "1433S"
+    },
+    {
+      "date": "30",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "AB4PP",
+      "name": "JP",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "32S"
+    },
+    {
+      "date": "30",
+      "utcTime": "17:00 - 19:00",
+      "callsign": "N4TTU",
+      "name": "Tom",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "28601T"
+    },
+    {
+      "date": "30",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "WB4HMA",
+      "name": "Joe",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "15132T"
+    },
+    {
+      "date": "30",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "KO4WFP",
+      "name": "Teri",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "25974S"
+    },
+    {
+      "date": "30",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "WB4HMA",
+      "name": "Joe",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "15132S"
+    },
+    {
+      "date": "30",
+      "utcTime": "22:00 - 23:59",
+      "callsign": "W2ECK",
+      "name": "Paul",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "6518s"
+    },
+    {
+      "date": "31",
+      "utcTime": "01:00 - 03:00",
+      "callsign": "W1DV",
+      "name": "Dave",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "1433S"
+    },
+    {
+      "date": "31",
+      "utcTime": "03:00 - 04:00",
+      "callsign": "N4TTU",
+      "name": "Tom",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "28601T"
+    },
+    {
+      "date": "31",
+      "utcTime": "11:00 - 12:00",
+      "callsign": "WA9VFD",
+      "name": "Kevin",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "17995S"
+    },
+    {
+      "date": "31",
+      "utcTime": "12:00 - 13:00",
+      "callsign": "N4HAY",
+      "name": "Dick",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "14649S"
+    },
+    {
+      "date": "31",
+      "utcTime": "13:00 - 14:00",
+      "callsign": "W1DV",
+      "name": "Dave",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "1433S"
+    },
+    {
+      "date": "31",
+      "utcTime": "14:00 - 15:00",
+      "callsign": "KW4NJA",
+      "name": "Scott",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "25716T"
+    },
+    {
+      "date": "31",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "AB4PP",
+      "name": "JP",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "32S"
+    },
+    {
+      "date": "31",
+      "utcTime": "17:00 - 19:00",
+      "callsign": "W1DV",
+      "name": "Dave",
+      "state": "NC",
+      "area": "K3Y/4",
+      "skcc": "1433S"
+    },
+    {
+      "date": "31",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N4TTU",
+      "name": "Tom",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "28601T"
+    },
+    {
+      "date": "31",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "KB3FW",
+      "name": "Harve",
+      "state": "SC",
+      "area": "K3Y/4",
+      "skcc": "26905S"
+    },
+    {
+      "date": "31",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "W2ECK",
+      "name": "Paul",
+      "state": "GA",
+      "area": "K3Y/4",
+      "skcc": "6518s"
+    },
+    {
+      "date": "31",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "KC4NO",
+      "name": "Mark",
+      "state": "KY",
+      "area": "K3Y/4",
+      "skcc": "25318S"
+    },
+    {
+      "date": "31",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "W4CMG",
+      "name": "Cathy",
+      "state": "TN",
+      "area": "K3Y/4",
+      "skcc": "20093S"
+    },
+    {
+      "date": "25",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "K0RO",
+      "name": "Ralph",
+      "state": "MS",
+      "area": "K3Y/5",
+      "skcc": "14800S"
+    },
+    {
+      "date": "25",
+      "utcTime": "03:00 - 05:59",
+      "callsign": "AD5VC",
+      "name": "Dana",
+      "state": "LA",
+      "area": "K3Y/5",
+      "skcc": "1555S"
+    },
+    {
+      "date": "25",
+      "utcTime": "12:00 - 12:59",
+      "callsign": "N5GW",
+      "name": "Gene",
+      "state": "MS",
+      "area": "K3Y/5",
+      "skcc": "7542"
+    },
+    {
+      "date": "25",
+      "utcTime": "16:00 - 17:59",
+      "callsign": "KE5AKL",
+      "name": "Mike",
+      "state": "NM",
+      "area": "K3Y/5",
+      "skcc": "1113T"
+    },
+    {
+      "date": "25",
+      "utcTime": "19:00 - 20:59",
+      "callsign": "NE5A",
+      "name": "George",
+      "state": "OK",
+      "area": "K3Y/5",
+      "skcc": "24849S"
+    },
+    {
+      "date": "25",
+      "utcTime": "21:00 - 21:59",
+      "callsign": "NA5N",
+      "name": "Paul",
+      "state": "NM",
+      "area": "K3Y/5",
+      "skcc": "10073S"
+    },
+    {
+      "date": "25",
+      "utcTime": "22:00 - 22:59",
+      "callsign": "K0RO",
+      "name": "Ralph",
+      "state": "MS",
+      "area": "K3Y/5",
+      "skcc": "14800S"
+    },
+    {
+      "date": "25",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "NA5N",
+      "name": "Paul",
+      "state": "NM",
+      "area": "K3Y/5",
+      "skcc": "10073S"
+    },
+    {
+      "date": "26",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "K0RO",
+      "name": "Ralph",
+      "state": "MS",
+      "area": "K3Y/5",
+      "skcc": "14800S"
+    },
+    {
+      "date": "26",
+      "utcTime": "01:00 - 02:59",
+      "callsign": "NA5N",
+      "name": "Paul",
+      "state": "NM",
+      "area": "K3Y/5",
+      "skcc": "10073S"
+    },
+    {
+      "date": "26",
+      "utcTime": "13:00 - 14:59",
+      "callsign": "K9OZ",
+      "name": "Bruce",
+      "state": "AR",
+      "area": "K3Y/5",
+      "skcc": "27580"
+    },
+    {
+      "date": "26",
+      "utcTime": "15:00 - 15:59",
+      "callsign": "WX7V",
+      "name": "Chris",
+      "state": "TX",
+      "area": "K3Y/5",
+      "skcc": "25995S"
+    },
+    {
+      "date": "26",
+      "utcTime": "21:00 - 21:59",
+      "callsign": "NA5N",
+      "name": "Paul",
+      "state": "NM",
+      "area": "K3Y/5",
+      "skcc": "10073S"
+    },
+    {
+      "date": "26",
+      "utcTime": "22:00 - 22:59",
+      "callsign": "K0RO",
+      "name": "Ralph",
+      "state": "MS",
+      "area": "K3Y/5",
+      "skcc": "14800S"
+    },
+    {
+      "date": "26",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "NA5N",
+      "name": "Paul",
+      "state": "NM",
+      "area": "K3Y/5",
+      "skcc": "10073S"
+    },
+    {
+      "date": "27",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "K0RO",
+      "name": "Ralph",
+      "state": "MS",
+      "area": "K3Y/5",
+      "skcc": "14800S"
+    },
+    {
+      "date": "27",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "KG5IEE",
+      "name": "Randal",
+      "state": "TX",
+      "area": "K3Y/5",
+      "skcc": "20496S"
+    },
+    {
+      "date": "27",
+      "utcTime": "13:00 - 15:00",
+      "callsign": "NE5A",
+      "name": "George",
+      "state": "OK",
+      "area": "K3Y/5",
+      "skcc": "24849S"
+    },
+    {
+      "date": "27",
+      "utcTime": "16:00 - 16:59",
+      "callsign": "AA5UZ",
+      "name": "Judy",
+      "state": "LA",
+      "area": "K3Y/5",
+      "skcc": "12268"
+    },
+    {
+      "date": "27",
+      "utcTime": "20:00 - 21:59",
+      "callsign": "KG5OWB",
+      "name": "Terry",
+      "state": "TX",
+      "area": "K3Y/5",
+      "skcc": "18054S"
+    },
+    {
+      "date": "27",
+      "utcTime": "22:00 - 22:59",
+      "callsign": "K0RO",
+      "name": "Ralph",
+      "state": "MS",
+      "area": "K3Y/5",
+      "skcc": "14800S"
+    },
+    {
+      "date": "28",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "K0RO",
+      "name": "Ralph",
+      "state": "MS",
+      "area": "K3Y/5",
+      "skcc": "14800S"
+    },
+    {
+      "date": "28",
+      "utcTime": "01:00 - 02:59",
+      "callsign": "K5ENS",
+      "name": "Ken",
+      "state": "TX",
+      "area": "K3Y/5",
+      "skcc": "19964S"
+    },
+    {
+      "date": "28",
+      "utcTime": "13:00 - 15:00",
+      "callsign": "NE5A",
+      "name": "George",
+      "state": "OK",
+      "area": "K3Y/5",
+      "skcc": "24849S"
+    },
+    {
+      "date": "28",
+      "utcTime": "17:00 - 18:59",
+      "callsign": "K9OZ",
+      "name": "Bruce",
+      "state": "AR",
+      "area": "K3Y/5",
+      "skcc": "27580"
+    },
+    {
+      "date": "28",
+      "utcTime": "22:00 - 22:59",
+      "callsign": "K0RO",
+      "name": "Ralph",
+      "state": "MS",
+      "area": "K3Y/5",
+      "skcc": "14800S"
+    },
+    {
+      "date": "29",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "K0RO",
+      "name": "Ralph",
+      "state": "MS",
+      "area": "K3Y/5",
+      "skcc": "14800S"
+    },
+    {
+      "date": "29",
+      "utcTime": "02:00 - 02:59",
+      "callsign": "AA5UZ",
+      "name": "Judy",
+      "state": "LA",
+      "area": "K3Y/5",
+      "skcc": "12268"
+    },
+    {
+      "date": "29",
+      "utcTime": "15:00 - 15:59",
+      "callsign": "AA5UZ",
+      "name": "Judy",
+      "state": "LA",
+      "area": "K3Y/5",
+      "skcc": "12268"
+    },
+    {
+      "date": "29",
+      "utcTime": "16:00 - 17:59",
+      "callsign": "KG5OWB",
+      "name": "Terry",
+      "state": "TX",
+      "area": "K3Y/5",
+      "skcc": "18054S"
+    },
+    {
+      "date": "30",
+      "utcTime": "13:00 - 15:00",
+      "callsign": "NE5A",
+      "name": "George",
+      "state": "OK",
+      "area": "K3Y/5",
+      "skcc": "24849S"
+    },
+    {
+      "date": "30",
+      "utcTime": "16:00 - 17:59",
+      "callsign": "KG5OWB",
+      "name": "Terry",
+      "state": "TX",
+      "area": "K3Y/5",
+      "skcc": "18054S"
+    },
+    {
+      "date": "30",
+      "utcTime": "22:00 - 22:59",
+      "callsign": "K0RO",
+      "name": "Ralph",
+      "state": "MS",
+      "area": "K3Y/5",
+      "skcc": "14800S"
+    },
+    {
+      "date": "31",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "K0RO",
+      "name": "Ralph",
+      "state": "MS",
+      "area": "K3Y/5",
+      "skcc": "14800S"
+    },
+    {
+      "date": "31",
+      "utcTime": "14:00 - 15:59",
+      "callsign": "KG5OWB",
+      "name": "Terry",
+      "state": "TX",
+      "area": "K3Y/5",
+      "skcc": "18054S"
+    },
+    {
+      "date": "31",
+      "utcTime": "19:00 - 20:59",
+      "callsign": "NE5A",
+      "name": "George",
+      "state": "OK",
+      "area": "K3Y/5",
+      "skcc": "24849S"
+    },
+    {
+      "date": "31",
+      "utcTime": "22:00 - 22:59",
+      "callsign": "K0RO",
+      "name": "Ralph",
+      "state": "MS",
+      "area": "K3Y/5",
+      "skcc": "14800S"
+    },
+    {
+      "date": "25",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "25",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "25",
+      "utcTime": "17:00 - 19:00",
+      "callsign": "N0CW",
+      "name": "Chuck",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "23240S"
+    },
+    {
+      "date": "25",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "25",
+      "utcTime": "20:00 - 22:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "25",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "26",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "26",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "26",
+      "utcTime": "17:00 - 19:00",
+      "callsign": "N0CW",
+      "name": "Chuck",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "23240S"
+    },
+    {
+      "date": "26",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "26",
+      "utcTime": "20:00 - 22:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "26",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "27",
+      "utcTime": "00:00 - 02:00",
+      "callsign": "WB6IZG",
+      "name": "Bruce",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "17714S"
+    },
+    {
+      "date": "27",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "27",
+      "utcTime": "04:00 - 05:00",
+      "callsign": "WB6IZG",
+      "name": "Bruce",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "17714S"
+    },
+    {
+      "date": "27",
+      "utcTime": "05:00 - 06:00",
+      "callsign": "W6EFI",
+      "name": "Connie",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "28453"
+    },
+    {
+      "date": "27",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "27",
+      "utcTime": "17:00 - 19:00",
+      "callsign": "N0CW",
+      "name": "Chuck",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "23240S"
+    },
+    {
+      "date": "27",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "27",
+      "utcTime": "20:00 - 22:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "27",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "28",
+      "utcTime": "00:00 - 02:00",
+      "callsign": "WB6IZG",
+      "name": "Bruce",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "17714S"
+    },
+    {
+      "date": "28",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "28",
+      "utcTime": "04:00 - 05:00",
+      "callsign": "WB6IZG",
+      "name": "Bruce",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "17714S"
+    },
+    {
+      "date": "28",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "28",
+      "utcTime": "17:00 - 19:00",
+      "callsign": "N0CW",
+      "name": "Chuck",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "23240S"
+    },
+    {
+      "date": "28",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "28",
+      "utcTime": "20:00 - 22:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "28",
+      "utcTime": "22:00 - 23:59",
+      "callsign": "WB6IZG",
+      "name": "Bruce",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "17714S"
+    },
+    {
+      "date": "29",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "29",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "29",
+      "utcTime": "17:00 - 19:00",
+      "callsign": "N0CW",
+      "name": "Chuck",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "23240S"
+    },
+    {
+      "date": "29",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "29",
+      "utcTime": "20:00 - 22:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "29",
+      "utcTime": "22:00 - 23:59",
+      "callsign": "WB6IZG",
+      "name": "Bruce",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "17714S"
+    },
+    {
+      "date": "30",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "30",
+      "utcTime": "04:00 - 05:00",
+      "callsign": "WB6IZG",
+      "name": "Bruce",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "17714S"
+    },
+    {
+      "date": "30",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "30",
+      "utcTime": "17:00 - 19:00",
+      "callsign": "N0CW",
+      "name": "Chuck",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "23240S"
+    },
+    {
+      "date": "30",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "30",
+      "utcTime": "20:00 - 22:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "30",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "N0CW",
+      "name": "Chuck",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "23240S"
+    },
+    {
+      "date": "31",
+      "utcTime": "00:00 - 00:59",
+      "callsign": "N0CW",
+      "name": "Chuck",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "23240S"
+    },
+    {
+      "date": "31",
+      "utcTime": "02:00 - 04:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "31",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "31",
+      "utcTime": "17:00 - 19:00",
+      "callsign": "WB6IZG",
+      "name": "Bruce",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "17714S"
+    },
+    {
+      "date": "31",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "31",
+      "utcTime": "20:00 - 22:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "31",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "N6CUQ",
+      "name": "Matt",
+      "state": "CA",
+      "area": "K3Y/6",
+      "skcc": "24270T"
+    },
+    {
+      "date": "25",
+      "utcTime": "00:01 - 01:00",
+      "callsign": "KJ7GNB",
+      "name": "Bill",
+      "state": "MT",
+      "area": "K3Y/7",
+      "skcc": "20930S"
+    },
+    {
+      "date": "25",
+      "utcTime": "01:00 - 02:00",
+      "callsign": "KJ7GNB",
+      "name": "Bill",
+      "state": "MT",
+      "area": "K3Y/7",
+      "skcc": "20930S"
+    },
+    {
+      "date": "25",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "KJ7GNB",
+      "name": "Bill",
+      "state": "MT",
+      "area": "K3Y/7",
+      "skcc": "20930S"
+    },
+    {
+      "date": "25",
+      "utcTime": "03:00 - 04:00",
+      "callsign": "KJ7BS",
+      "name": "Mark",
+      "state": "AZ",
+      "area": "K3Y/7",
+      "skcc": "2240T"
+    },
+    {
+      "date": "25",
+      "utcTime": "04:00 - 05:00",
+      "callsign": "KJ7BS",
+      "name": "Mark",
+      "state": "AZ",
+      "area": "K3Y/7",
+      "skcc": "2240T"
+    },
+    {
+      "date": "25",
+      "utcTime": "05:00 - 06:00",
+      "callsign": "KJ7BS",
+      "name": "Mark",
+      "state": "AZ",
+      "area": "K3Y/7",
+      "skcc": "2240T"
+    },
+    {
+      "date": "25",
+      "utcTime": "12:00 - 13:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "25",
+      "utcTime": "13:00 - 14:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "25",
+      "utcTime": "14:00 - 15:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "25",
+      "utcTime": "15:00 - 16:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "25",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "WV3V",
+      "name": "Jason",
+      "state": "NV",
+      "area": "K3Y/7",
+      "skcc": "22102S"
+    },
+    {
+      "date": "25",
+      "utcTime": "17:00 - 18:00",
+      "callsign": "WV3V",
+      "name": "Jason",
+      "state": "NV",
+      "area": "K3Y/7",
+      "skcc": "22102S"
+    },
+    {
+      "date": "25",
+      "utcTime": "18:00 - 19:00",
+      "callsign": "WV3V",
+      "name": "Jason",
+      "state": "NV",
+      "area": "K3Y/7",
+      "skcc": "22102S"
+    },
+    {
+      "date": "25",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "25",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "25",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "KJ7DT",
+      "name": "Paul",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "25875S"
+    },
+    {
+      "date": "25",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "KJ7DT",
+      "name": "Paul",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "25875S"
+    },
+    {
+      "date": "25",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "AC7LF",
+      "name": "Claudia",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "28038T"
+    },
+    {
+      "date": "26",
+      "utcTime": "00:01 - 01:00",
+      "callsign": "NA7C",
+      "name": "Ted",
+      "state": "UT",
+      "area": "K3Y/7",
+      "skcc": "8182S"
+    },
+    {
+      "date": "26",
+      "utcTime": "12:00 - 13:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "26",
+      "utcTime": "13:00 - 14:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "26",
+      "utcTime": "14:00 - 15:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "26",
+      "utcTime": "15:00 - 16:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "26",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "26",
+      "utcTime": "17:00 - 18:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "26",
+      "utcTime": "18:00 - 19:00",
+      "callsign": "N7AM",
+      "name": "Russ",
+      "state": "OR",
+      "area": "K3Y/7",
+      "skcc": "24433T"
+    },
+    {
+      "date": "26",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "W7VC",
+      "name": "Jordan",
+      "state": "OR",
+      "area": "K3Y/7",
+      "skcc": "24194S"
+    },
+    {
+      "date": "26",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "AC7LF",
+      "name": "Claudia",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "28038T"
+    },
+    {
+      "date": "26",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "AC7LF",
+      "name": "Claudia",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "28038T"
+    },
+    {
+      "date": "26",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "K7SHR",
+      "name": "Paul",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "23479"
+    },
+    {
+      "date": "26",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "K7SHR",
+      "name": "Paul",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "23479"
+    },
+    {
+      "date": "27",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "27",
+      "utcTime": "12:00 - 13:00",
+      "callsign": "W6KGP",
+      "name": "Leo",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "5330T"
+    },
+    {
+      "date": "27",
+      "utcTime": "13:00 - 14:00",
+      "callsign": "W6KGP",
+      "name": "Leo",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "5330T"
+    },
+    {
+      "date": "27",
+      "utcTime": "14:00 - 15:00",
+      "callsign": "W6KGP",
+      "name": "Leo",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "5330T"
+    },
+    {
+      "date": "27",
+      "utcTime": "15:00 - 16:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "27",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "27",
+      "utcTime": "17:00 - 18:00",
+      "callsign": "KJ7DT",
+      "name": "Paul",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "25875S"
+    },
+    {
+      "date": "27",
+      "utcTime": "18:00 - 19:00",
+      "callsign": "AB7MP",
+      "name": "Mark",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "454S"
+    },
+    {
+      "date": "27",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "WB7BWZ",
+      "name": "Bob",
+      "state": "MT",
+      "area": "K3Y/7",
+      "skcc": "20956T"
+    },
+    {
+      "date": "27",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "K7ESQ",
+      "name": "John",
+      "state": "AZ",
+      "area": "K3Y/7",
+      "skcc": "27987T"
+    },
+    {
+      "date": "27",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "WR7D",
+      "name": "Ken",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "22002T"
+    },
+    {
+      "date": "27",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "27",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "WV7W",
+      "name": "Bob",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "5779T"
+    },
+    {
+      "date": "28",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "28",
+      "utcTime": "13:00 - 14:00",
+      "callsign": "W6KGP",
+      "name": "Leo",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "5330T"
+    },
+    {
+      "date": "28",
+      "utcTime": "14:00 - 15:00",
+      "callsign": "W6KGP",
+      "name": "Leo",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "5330T"
+    },
+    {
+      "date": "28",
+      "utcTime": "15:00 - 16:00",
+      "callsign": "W6KGP",
+      "name": "Leo",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "5330T"
+    },
+    {
+      "date": "28",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "W7VC",
+      "name": "Jordan",
+      "state": "OR",
+      "area": "K3Y/7",
+      "skcc": "24194S"
+    },
+    {
+      "date": "28",
+      "utcTime": "17:00 - 18:00",
+      "callsign": "W7AMI",
+      "name": "Terry",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "20359S"
+    },
+    {
+      "date": "28",
+      "utcTime": "18:00 - 19:00",
+      "callsign": "WU8T",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "22868S"
+    },
+    {
+      "date": "28",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "WU8T",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "22868S"
+    },
+    {
+      "date": "28",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "28",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "28",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "K7VM",
+      "name": "Craig",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "3070S"
+    },
+    {
+      "date": "28",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "KJ7DT",
+      "name": "Paul",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "25875S"
+    },
+    {
+      "date": "29",
+      "utcTime": "00:01 - 01:00",
+      "callsign": "KJ7DT",
+      "name": "Paul",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "25875S"
+    },
+    {
+      "date": "29",
+      "utcTime": "15:00 - 16:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "29",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "KE7VE",
+      "name": "Tin",
+      "state": "WY",
+      "area": "K3Y/7",
+      "skcc": "4274S"
+    },
+    {
+      "date": "29",
+      "utcTime": "17:00 - 18:00",
+      "callsign": "KJ7DT",
+      "name": "Paul",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "25875S"
+    },
+    {
+      "date": "29",
+      "utcTime": "18:00 - 19:00",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "29",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "29",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "WR7D",
+      "name": "Ken",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "22002T"
+    },
+    {
+      "date": "29",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "WA7RCT",
+      "name": "Cleon",
+      "state": "UT",
+      "area": "K3Y/7",
+      "skcc": "498S"
+    },
+    {
+      "date": "29",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "WA7RCT",
+      "name": "Cleon",
+      "state": "UT",
+      "area": "K3Y/7",
+      "skcc": "498S"
+    },
+    {
+      "date": "29",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "N7AM",
+      "name": "Russ",
+      "state": "OR",
+      "area": "K3Y/7",
+      "skcc": "24433T"
+    },
+    {
+      "date": "30",
+      "utcTime": "17:00 - 18:00",
+      "callsign": "KJ7DT",
+      "name": "Paul",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "25875S"
+    },
+    {
+      "date": "30",
+      "utcTime": "18:00 - 19:00",
+      "callsign": "KJ7DT",
+      "name": "Paul",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "25875S"
+    },
+    {
+      "date": "30",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "WB7BWZ",
+      "name": "Bob",
+      "state": "MT",
+      "area": "K3Y/7",
+      "skcc": "20956T"
+    },
+    {
+      "date": "30",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "30",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "30",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "NA7C",
+      "name": "Ted",
+      "state": "UT",
+      "area": "K3Y/7",
+      "skcc": "8182S"
+    },
+    {
+      "date": "30",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "WV7W",
+      "name": "Bob",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "5779T"
+    },
+    {
+      "date": "31",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "31",
+      "utcTime": "16:00 - 17:00",
+      "callsign": "W7VC",
+      "name": "Jordan",
+      "state": "OR",
+      "area": "K3Y/7",
+      "skcc": "24194S"
+    },
+    {
+      "date": "31",
+      "utcTime": "17:00 - 18:00",
+      "callsign": "W7AMI",
+      "name": "Terry",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "20359S"
+    },
+    {
+      "date": "31",
+      "utcTime": "18:00 - 19:00",
+      "callsign": "WB7BWZ",
+      "name": "Bob",
+      "state": "MT",
+      "area": "K3Y/7",
+      "skcc": "20956T"
+    },
+    {
+      "date": "31",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "WB7BWZ",
+      "name": "Bob",
+      "state": "MT",
+      "area": "K3Y/7",
+      "skcc": "20956T"
+    },
+    {
+      "date": "31",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "31",
+      "utcTime": "21:00 - 22:00",
+      "callsign": "KJ7DT",
+      "name": "Paul",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "25875S"
+    },
+    {
+      "date": "31",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "KJ7DT",
+      "name": "Paul",
+      "state": "ID",
+      "area": "K3Y/7",
+      "skcc": "25875S"
+    },
+    {
+      "date": "31",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "N7WI",
+      "name": "Tom",
+      "state": "WA",
+      "area": "K3Y/7",
+      "skcc": "16967S"
+    },
+    {
+      "date": "25",
+      "utcTime": "02:00 - 02:59",
+      "callsign": "NQ8T",
+      "name": "Steve",
+      "state": "OH",
+      "area": "K3Y/8",
+      "skcc": "5919s"
+    },
+    {
+      "date": "25",
+      "utcTime": "17:00 - 18:00",
+      "callsign": "NJ8L",
+      "name": "Vern",
+      "state": "OH",
+      "area": "K3Y/8",
+      "skcc": "13613S"
+    },
+    {
+      "date": "25",
+      "utcTime": "18:00 - 21:59",
+      "callsign": "KA8HFN",
+      "name": "Larry",
+      "state": "OH",
+      "area": "K3Y/8",
+      "skcc": "2046s"
+    },
+    {
+      "date": "26",
+      "utcTime": "02:00 - 03:59",
+      "callsign": "NR5N",
+      "name": "Randy",
+      "state": "WV",
+      "area": "k3y/8",
+      "skcc": "22183s"
+    },
+    {
+      "date": "26",
+      "utcTime": "17:00 - 20:59",
+      "callsign": "KA8HFN",
+      "name": "Larry",
+      "state": "OH",
+      "area": "K3Y/8",
+      "skcc": "2046s"
+    },
+    {
+      "date": "27",
+      "utcTime": "00:00 - 01:59",
+      "callsign": "NR5N",
+      "name": "Randy",
+      "state": "WV",
+      "area": "k3y/8",
+      "skcc": "22183s"
+    },
+    {
+      "date": "27",
+      "utcTime": "02:00 - 02:59",
+      "callsign": "NQ8T",
+      "name": "Steve",
+      "state": "OH",
+      "area": "K3Y/8",
+      "skcc": "5919s"
+    },
+    {
+      "date": "27",
+      "utcTime": "17:00 - 20:59",
+      "callsign": "KA8HFN",
+      "name": "Larry",
+      "state": "OH",
+      "area": "K3Y/8",
+      "skcc": "2046s"
+    },
+    {
+      "date": "28",
+      "utcTime": "15:00 - 16:59",
+      "callsign": "NR5N",
+      "name": "Randy",
+      "state": "WV",
+      "area": "k3y/8",
+      "skcc": "22183s"
+    },
+    {
+      "date": "29",
+      "utcTime": "02:00 - 02:59",
+      "callsign": "NQ8T",
+      "name": "Steve",
+      "state": "OH",
+      "area": "K3Y/8",
+      "skcc": "5919s"
+    },
+    {
+      "date": "29",
+      "utcTime": "17:00 - 18:59",
+      "callsign": "NR5N",
+      "name": "Randy",
+      "state": "WV",
+      "area": "k3y/8",
+      "skcc": "22183s"
+    },
+    {
+      "date": "29",
+      "utcTime": "19:00 - 20:59",
+      "callsign": "W8YD",
+      "name": "Bob",
+      "state": "OH",
+      "area": "k3y/8",
+      "skcc": "22079s"
+    },
+    {
+      "date": "30",
+      "utcTime": "17:00 - 18:59",
+      "callsign": "NR5N",
+      "name": "Randy",
+      "state": "WV",
+      "area": "k3y/8",
+      "skcc": "22183s"
+    },
+    {
+      "date": "30",
+      "utcTime": "19:00 - 20:59",
+      "callsign": "W8YD",
+      "name": "Bob",
+      "state": "OH",
+      "area": "k3y/8",
+      "skcc": "22079s"
+    },
+    {
+      "date": "31",
+      "utcTime": "17:00 - 18:59",
+      "callsign": "NR5N",
+      "name": "Randy",
+      "state": "WV",
+      "area": "k3y/8",
+      "skcc": "22183s"
+    },
+    {
+      "date": "31",
+      "utcTime": "19:00 - 20:59",
+      "callsign": "W8YD",
+      "name": "Bob",
+      "state": "OH",
+      "area": "k3y/8",
+      "skcc": "22079s"
+    },
+    {
+      "date": "31",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "K8AQM",
+      "name": "Ted",
+      "state": "MI",
+      "area": "k3y/8",
+      "skcc": "1629s"
+    },
+    {
+      "date": "25",
+      "utcTime": "00:00 - 06:00",
+      "callsign": "W9DLN",
+      "name": "Dan",
+      "state": "WI",
+      "area": "K3Y/9",
+      "skcc": "3635S"
+    },
+    {
+      "date": "26",
+      "utcTime": "01:00 - 02:00",
+      "callsign": "KF9AQ",
+      "name": "Kevin",
+      "state": "WI",
+      "area": "K3Y/9",
+      "skcc": "N/A"
+    },
+    {
+      "date": "28",
+      "utcTime": "15:00 - 17:00",
+      "callsign": "WB9CYY",
+      "name": "Don",
+      "state": "WI",
+      "area": "K3Y/9",
+      "skcc": "26540S"
+    },
+    {
+      "date": "29",
+      "utcTime": "19:00 - 21:00",
+      "callsign": "KF9AQ",
+      "name": "Kevin",
+      "state": "WI",
+      "area": "K3Y/9",
+      "skcc": "11555S"
+    },
+    {
+      "date": "31",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "KH6ZM",
+      "name": "Max",
+      "state": "HI",
+      "area": "K3Y/KH6",
+      "skcc": "727s"
+    },
+    {
+      "date": "25",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "KL3E",
+      "name": "Alan",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "28851T"
+    },
+    {
+      "date": "25",
+      "utcTime": "05:00 - 06:00",
+      "callsign": "AL7JX",
+      "name": "Glen",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "17287C"
+    },
+    {
+      "date": "25",
+      "utcTime": "06:00 - 07:00",
+      "callsign": "AL7JX",
+      "name": "Glen",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "17287C"
+    },
+    {
+      "date": "25",
+      "utcTime": "19:00 - 20:00",
+      "callsign": "N1TX",
+      "name": "Larry",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "11052S"
+    },
+    {
+      "date": "25",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "N1TX",
+      "name": "Larry",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "11052S"
+    },
+    {
+      "date": "25",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "N1TX",
+      "name": "Larry",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "11052S"
+    },
+    {
+      "date": "25",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "KL3E",
+      "name": "Alan",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "28851T"
+    },
+    {
+      "date": "26",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "KL3E",
+      "name": "Alan",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "28851T"
+    },
+    {
+      "date": "26",
+      "utcTime": "23:00 - 23:59",
+      "callsign": "KL3E",
+      "name": "Alan",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "28851T"
+    },
+    {
+      "date": "27",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "KL3E",
+      "name": "Alan",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "28851T"
+    },
+    {
+      "date": "28",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "KL3E",
+      "name": "Alan",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "28851T"
+    },
+    {
+      "date": "29",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "KL3E",
+      "name": "Alan",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "28851T"
+    },
+    {
+      "date": "30",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "KL3E",
+      "name": "Alan",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "28851T"
+    },
+    {
+      "date": "31",
+      "utcTime": "02:00 - 03:00",
+      "callsign": "KL3E",
+      "name": "Alan",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "28851T"
+    },
+    {
+      "date": "31",
+      "utcTime": "04:00 - 05:00",
+      "callsign": "KL3E",
+      "name": "Alan",
+      "state": "AK",
+      "area": "K3Y/KL7",
+      "skcc": "28851T"
+    },
+    {
+      "date": "25",
+      "utcTime": "14:00 - 18:30",
+      "callsign": "KP4SJ",
+      "name": "PABLO",
+      "state": "PR",
+      "area": "K3Y/KP4",
+      "skcc": "8843S"
+    },
+    {
+      "date": "25",
+      "utcTime": "20:15 - 22:15",
+      "callsign": "WP4TZ",
+      "name": "MANU",
+      "state": "PR",
+      "area": "K3Y/KP4",
+      "skcc": "29429"
+    },
+    {
+      "date": "25",
+      "utcTime": "20:00 - 20:59",
+      "callsign": "VA7WWV",
+      "name": "Colin",
+      "state": "BC",
+      "area": "NA-BC",
+      "skcc": "8580"
+    },
+    {
+      "date": "26",
+      "utcTime": "20:00 - 20:59",
+      "callsign": "VA7WWV",
+      "name": "Colin",
+      "state": "BC",
+      "area": "NA-BC",
+      "skcc": "8580"
+    },
+    {
+      "date": "27",
+      "utcTime": "20:00 - 20:59",
+      "callsign": "VA7WWV",
+      "name": "Colin",
+      "state": "BC",
+      "area": "NA-BC",
+      "skcc": "8580"
+    },
+    {
+      "date": "28",
+      "utcTime": "20:00 - 20:59",
+      "callsign": "VA7WWV",
+      "name": "Colin",
+      "state": "BC",
+      "area": "NA-BC",
+      "skcc": "8580"
+    },
+    {
+      "date": "29",
+      "utcTime": "20:00 - 20:59",
+      "callsign": "VA7WWV",
+      "name": "Colin",
+      "state": "BC",
+      "area": "NA-BC",
+      "skcc": "8580"
+    },
+    {
+      "date": "30",
+      "utcTime": "20:00 - 20:59",
+      "callsign": "VA7WWV",
+      "name": "Colin",
+      "state": "BC",
+      "area": "NA-BC",
+      "skcc": "8580"
+    },
+    {
+      "date": "31",
+      "utcTime": "20:00 - 20:59",
+      "callsign": "VA7WWV",
+      "name": "Colin",
+      "state": "BC",
+      "area": "NA-BC",
+      "skcc": "8580"
+    },
+    {
+      "date": "31",
+      "utcTime": "22:00 - 23:59",
+      "callsign": "VE1AHX",
+      "name": "Ben",
+      "state": "NS",
+      "area": "NA-NS",
+      "skcc": "18100S"
+    },
+    {
+      "date": "27",
+      "utcTime": "16:00 - 16:59",
+      "callsign": "VA3FRL",
+      "name": "Rick",
+      "state": "ON",
+      "area": "NA-ON",
+      "skcc": "24441S"
+    },
+    {
+      "date": "30",
+      "utcTime": "01:00 - 01:59",
+      "callsign": "VA3FRL",
+      "name": "Rick",
+      "state": "ON",
+      "area": "NA-ON",
+      "skcc": "24441S"
+    },
+    {
+      "date": "25",
+      "utcTime": "16:00 - 16:59",
+      "callsign": "VA2KCC",
+      "name": "Tony",
+      "state": "QC",
+      "area": "NA-QC",
+      "skcc": "18420T"
+    },
+    {
+      "date": "26",
+      "utcTime": "16:00 - 16:59",
+      "callsign": "VA2KCC",
+      "name": "Tony",
+      "state": "QC",
+      "area": "NA-QC",
+      "skcc": "18420T"
+    },
+    {
+      "date": "27",
+      "utcTime": "16:00 - 16:59",
+      "callsign": "VA2KCC",
+      "name": "Tony",
+      "state": "QC",
+      "area": "NA-QC",
+      "skcc": "18420T"
+    },
+    {
+      "date": "28",
+      "utcTime": "16:00 - 16:59",
+      "callsign": "VA2KCC",
+      "name": "Tony",
+      "state": "QC",
+      "area": "NA-QC",
+      "skcc": "18420T"
+    },
+    {
+      "date": "29",
+      "utcTime": "16:00 - 16:59",
+      "callsign": "VA2KCC",
+      "name": "Tony",
+      "state": "QC",
+      "area": "NA-QC",
+      "skcc": "18420T"
+    },
+    {
+      "date": "29",
+      "utcTime": "17:00 - 17:59",
+      "callsign": "VA2NW",
+      "name": "Tom",
+      "state": "QC",
+      "area": "NA-QC",
+      "skcc": "4889T"
+    },
+    {
+      "date": "30",
+      "utcTime": "16:00 - 16:59",
+      "callsign": "VA2KCC",
+      "name": "Tony",
+      "state": "QC",
+      "area": "NA-QC",
+      "skcc": "18420T"
+    },
+    {
+      "date": "31",
+      "utcTime": "16:00 - 16:59",
+      "callsign": "VA2KCC",
+      "name": "Tony",
+      "state": "QC",
+      "area": "NA-QC",
+      "skcc": "18420T"
+    },
+    {
+      "date": "31",
+      "utcTime": "00:00 - 01:00",
+      "callsign": "VK2GR",
+      "name": "ALLAN",
+      "state": "AUSTRALIA",
+      "area": "OC-AUS",
+      "skcc": "7823S"
+    },
+    {
+      "date": "26",
+      "utcTime": "08:00 - 09:00",
+      "callsign": "ZL3TK",
+      "name": "Stan",
+      "state": "New_Zealand",
+      "area": "OC-NZL",
+      "skcc": "16208"
+    },
+    {
+      "date": "28",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "ZL3TK",
+      "name": "Stan",
+      "state": "New_Zealand",
+      "area": "OC-NZL",
+      "skcc": "16208"
+    },
+    {
+      "date": "31",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "LU7DD",
+      "name": "Gabriel",
+      "state": "ARG",
+      "area": "SA-ARG",
+      "skcc": "20155T"
+    },
+    {
+      "date": "31",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "CP4BT",
+      "name": "Claus",
+      "state": "BOL",
+      "area": "SA-BOL",
+      "skcc": "29276"
+    },
+    {
+      "date": "25",
+      "utcTime": "17:00 - 20:00",
+      "callsign": "PY2FRQ",
+      "name": "Nan",
+      "state": "BRA",
+      "area": "SA-BRA",
+      "skcc": "17623S"
+    },
+    {
+      "date": "26",
+      "utcTime": "17:00 - 20:00",
+      "callsign": "PY2FRQ",
+      "name": "Nan",
+      "state": "BRA",
+      "area": "SA-BRA",
+      "skcc": "17623S"
+    },
+    {
+      "date": "27",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "PY2AAM",
+      "name": "Rod",
+      "state": "BRA",
+      "area": "SA-BRA",
+      "skcc": "26496"
+    },
+    {
+      "date": "28",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "PY2AAM",
+      "name": "Rod",
+      "state": "BRA",
+      "area": "SA-BRA",
+      "skcc": "26496"
+    },
+    {
+      "date": "29",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "PY2AAM",
+      "name": "Rod",
+      "state": "BRA",
+      "area": "SA-BRA",
+      "skcc": "26496"
+    },
+    {
+      "date": "30",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "PY2AAM",
+      "name": "Rod",
+      "state": "BRA",
+      "area": "SA-BRA",
+      "skcc": "26496"
+    },
+    {
+      "date": "31",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "PS7AW",
+      "name": "Cha",
+      "state": "BRA",
+      "area": "SA-BRA",
+      "skcc": "11092T"
+    },
+    {
+      "date": "31",
+      "utcTime": "22:00 - 23:00",
+      "callsign": "PY2AAM",
+      "name": "Rod",
+      "state": "BRA",
+      "area": "SA-BRA",
+      "skcc": "26496"
+    },
+    {
+      "date": "31",
+      "utcTime": "20:00 - 23:00",
+      "callsign": "CA3EHT",
+      "name": "Ed",
+      "state": "CHI",
+      "area": "SA-CHI",
+      "skcc": "28313"
+    },
+    {
+      "date": "31",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "HK5NLJ/3",
+      "name": "Alv",
+      "state": "COL",
+      "area": "SA-COL",
+      "skcc": "6807T"
+    },
+    {
+      "date": "31",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "PZ5JW",
+      "name": "Rico",
+      "state": "SUR",
+      "area": "SA-SUR",
+      "skcc": "13063C"
+    },
+    {
+      "date": "31",
+      "utcTime": "20:00 - 21:00",
+      "callsign": "9Z4A",
+      "name": "Tony",
+      "state": "TRI",
+      "area": "SA-TRI",
+      "skcc": "27593"
+    }
+  ]
+}

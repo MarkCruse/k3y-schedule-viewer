@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>K3Y Schedule Viewer</title>
+    <!-- Link to the external CSS file -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>
+      <div id="time-display">Time: Loading...</div>
+    </h1>
+
+    <!-- Hourly Schedules (Now across the top) -->
+    <div class="hourly-schedules">
+      <div>
+        <h3 id="current-hour-title">Loading...</h3>
+        <div id="current-hour">Loading...</div>
+      </div>
+      <div>
+        <h3 id="next-hour-title">Loading...</h3>
+        <div id="next-hour">Loading...</div>
+      </div>
+    </div>
+
+    <!-- Separator Line -->
+    <div class="separator"></div>
+
+    <!-- Filter Inputs -->
+    <div class="filters">
+      <label for="callsign" id="callsign-label">Callsign:</label>
+      <input type="text" id="callsign" placeholder="Enter callsign" />
+
+      <label for="state" id="state-label">State:</label>
+      <input
+        type="text"
+        id="state"
+        placeholder="Enter state"
+        list="state-dropdown"
+      />
+      <datalist id="state-dropdown"></datalist>
+
+      <label for="area" id="area-label">Area:</label>
+      <input
+        type="text"
+        id="area"
+        placeholder="Enter area"
+        list="area-dropdown"
+      />
+      <datalist id="area-dropdown"></datalist>
+
+      <label for="day" id="day-label">Day:</label>
+      <input type="text" id="day" placeholder="Enter day" list="day-dropdown" />
+      <datalist id="day-dropdown"></datalist>
+
+      <!-- Reset Button -->
+      <button id="reset-button">Reset</button>
+    </div>
+
+    <!-- Schedule Container (Grid Layout) -->
+    <div class="schedule-container">
+      <!-- Main Schedule Table -->
+      <div class="main-schedule-table">
+        <h3 id="main-schedule-title">Main Schedule</h3>
+        <div class="main-schedule-table-wrapper">
+          <table id="output"></table>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

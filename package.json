@@ -1,0 +1,25 @@
+{
+  "name": "k3y-schedule-viewer",
+  "version": "1.0.0",
+  "description": "This Node.js-based API scrapes, processes, and serves the K3Y operator schedule from the SKCC website.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkCruse/k3y-schedule-viewer.git"
+  },
+  "author": "Mark Cruse KC4NO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarkCruse/k3y-schedule-viewer/issues"
+  },
+  "homepage": "https://github.com/MarkCruse/k3y-schedule-viewer#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "express": "^4.21.2"
+  }
+}
